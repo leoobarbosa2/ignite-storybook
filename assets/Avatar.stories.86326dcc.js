@@ -1,0 +1,2 @@
+import{A as t}from"./index.6c68bc85.js";import"./index.71c41223.js";import"./iframe.def1fd43.js";import"./index.853ce48e.js";import"./jsx-runtime.f4003ffe.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/leoobarbosa2.png",alt:"Leonardo Barbosa"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.86326dcc.js.map

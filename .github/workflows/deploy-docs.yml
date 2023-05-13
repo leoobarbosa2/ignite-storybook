@@ -6,10 +6,6 @@ on:
       - main
 
 jobs:
-  permissions:
-    issues: write
-    pull-requests: write
-
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
